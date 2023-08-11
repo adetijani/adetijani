@@ -85,7 +85,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=adetijani&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adetijani&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
@@ -109,3 +109,4 @@ Credit: [Tijani Adebowale](https://github.com/adetijani)
 
 Last Edited on: 11/08/2023
 
+![](https://hit.yhype.me/github/profile?user_id=55208382)
